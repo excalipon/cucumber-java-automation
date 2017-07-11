@@ -7,8 +7,8 @@ import cucumber.api.java.en.Given;
  */
 
 public class SampleSteps {
-    @Given("^Sample$")
-    public void sample() throws Throwable {
-        System.out.print("Sample");
-    }
+//    @Given("^Sample$")
+//    public void sample() throws Throwable {
+//        System.out.print("Sample");
+//    }
 }
